@@ -5,3 +5,6 @@ def test_add():
 
 def test_multiply():
     assert app.multiply(3, 3) == 9
+
+def test_subtract():
+    assert app.sub(10, 3) == 7
