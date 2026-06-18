@@ -9,3 +9,6 @@ def test_multiply():
 def test_subtract():
     assert app.sub(10, 3) == 7
 
+def test_divide():
+    assert app.divide(10, 2) == 5
+
