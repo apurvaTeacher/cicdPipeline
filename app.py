@@ -11,6 +11,8 @@ def divide(a, b):
     return a / b
 def percentage():
     pass
+def swroot():
+    pass
 
 if __name__ == "__main__":
     print("Sum of 2 + 3 is:", add(2, 3))
