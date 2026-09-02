@@ -9,6 +9,8 @@ def multiply(a, b):
 
 def divide(a, b):
     return a / b
+def percentage():
+    pass
 
 if __name__ == "__main__":
     print("Sum of 2 + 3 is:", add(2, 3))
